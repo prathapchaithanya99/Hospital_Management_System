@@ -8,10 +8,10 @@ The Primary Purpose of the Hospital Management System is to digitize and automat
 #  1. Patient Management:
 -> Add, edit and delete patient records.
 -> View Patient details including name, age and gender.
-#2. Doctor Management:
+#  2. Doctor Management:
 -> Add, eit and delete doctor profiles.
 -> View doctor details including name, specialization.
-#3. Appointment SCheduling:
+#  3. Appointment SCheduling:
 -> Book appointments for patients.
 
 # Technologies Used:
